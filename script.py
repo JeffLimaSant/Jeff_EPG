@@ -3,10 +3,9 @@ from datetime import datetime
 
 # URLs of the XML files
 urls = [
-    "url1_here",
-    "url2_here",
-    "url3_here",
-    "url4_here"
+    "https://www.bevy.be/bevyfiles/brazil.xml",
+    "https://www.bevy.be/bevyfiles/brazilpremium.xml",
+    "https://www.bevy.be/bevyfiles/brazilpremium2.xml"
 ]
 
 # Function to download XML file from URL
